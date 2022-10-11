@@ -6,7 +6,7 @@
 -->
 
 - 🔭 Atualmente sou Estagiário na Prefeitura de Duque de Caxias.
-- 🌱 Atualmente estou estudando Javascript, Angular e desenvolvimento back-end.
+- 🌱 Atualmente estou estudando Javascript, LUA, Angular e desenvolvimento back-end.
 
 
 <div>
