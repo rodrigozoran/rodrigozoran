@@ -1,12 +1,11 @@
 ### Oi, pessoal! 👋
-### Eu sou o Rodrigo Garcez e atualmente estudo programação front-end e back-end!
-
+### Eu sou o Rodrigo Garcez e atualmente estudo Javascript, Typescript e NodeJS, além de Java para desenvolvimento back-end.
 <!--
 **rodrigozoran/rodrigozoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 Atualmente sou Estagiário na Prefeitura de Duque de Caxias.
-- 🌱 Atualmente estou estudando Javascript, LUA, Angular e desenvolvimento back-end.
+- 🔭 Estagiário na Prefeitura de Duque de Caxias.
+- 🌱 Possuo conhecimentos em banco de dados SQL, Git e Github, Javascript e Typescript, Angular Framework, Java e Lua.
 
 
 <div>
