@@ -1,10 +1,8 @@
-### Oi, pessoal! 👋
-### Estou cursando o último semestre de Análise e Desenvolvimento de Sistemas.
+### Fala, galera! 👋
 <!--
 **rodrigozoran/rodrigozoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 Sou estagiário na Prefeitura de Duque de Caxias.
 - 🌱 Possuo conhecimentos em banco de dados SQL, Git e Github, Javascript e Typescript, Angular Framework, Java e Lua.
 
 
