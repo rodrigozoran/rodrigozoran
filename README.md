@@ -4,11 +4,10 @@
 -->
 
 🌱 Analista de Sistemas
-🚀 Atualmente trabalho com C#, ASP.NET, SQL Server, NHibernate, Javascript em sistemas com modelagem DDD e padrão SOLID.
+🚀 Atualmente trabalho com C#, ASP.NET, SQL Server, NHibernate e Javascript em sistemas com modelagem DDD e padrão SOLID.
 
 
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodrigozoran&show_icons=true&theme=dracula&hide=stars"/>
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigozoran&layout=compact"/>
 </div><br>
 
