@@ -3,7 +3,8 @@
 **rodrigozoran/rodrigozoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 Possuo conhecimentos em banco de dados SQL, Git e Github, Javascript e Typescript, Angular Framework, Java e Lua.
+🌱 Analista de Sistemas
+🚀 Atualmente trabalho com C#, ASP.NET, SQL Server, NHibernate, Javascript em sistemas com modelagem DDD e padrão SOLID.
 
 
 <div>
