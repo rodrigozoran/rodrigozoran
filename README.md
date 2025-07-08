@@ -4,7 +4,7 @@
 -->
 
 🌱 Analista de Sistemas <br/>
-🚀 Atualmente trabalho com C#, ASP.NET, SQL Server, NHibernate e Javascript em sistemas com modelagem DDD e padrão SOLID.
+🚀 Atualmente trabalho com C#, ASP.NET, SQL Server, e Javascript em sistemas com modelagem DDD e padrão SOLID.
 
 
 <div>
@@ -12,7 +12,6 @@
 </div><br>
 
 <div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" height="30" width="40" /> -
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  alt="javascript" height="30" width="40"/> -
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  alt="typescript" height="30" width="40" /> -
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="30" width="40" alt="csharp"/> - 
