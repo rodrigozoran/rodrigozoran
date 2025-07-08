@@ -13,7 +13,7 @@
 
 <div>
       <h4>Linguagens</h4>
-      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)"  alt="c#" height="30" width="80"/> - 
+      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)"  alt="c#" height="20" width="80"/> - 
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"  alt="javascript" height="30" width="80"/> -
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  alt="javascript" height="30" width="80"/><br/>
       <h4>DevOps</h4>
