@@ -4,12 +4,6 @@
 -->
 
 🌱 Analista de Sistemas <br/>
-🚀 Atualmente trabalho com C#, ASP.NET, SQL Server, e Javascript em sistemas com modelagem DDD e padrão SOLID.
-
-
-<div>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigozoran&layout=compact"/>
-</div><br>
 
 <div>
       <h3>Frontend</h3>
